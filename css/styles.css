@@ -1,0 +1,28 @@
+h1 {
+  color: #9400D3;
+  background-color: orange;
+}
+
+body {
+  background-color: yellow;
+}
+.list-item {
+  font-family: monospace;
+}
+
+#css-item {
+  color: #ff1493;
+}
+
+#goal-list {
+  border-style: solid;
+  border-color: #adff2f;
+  width: 20%;
+}
+#picture {
+  width: 60%;
+  float: right;
+  border: dotted;
+  border-width: thick;
+  border-color: pink purple orange blue;
+}
